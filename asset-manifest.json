@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ecf05e18.css",
+    "main.js": "/static/js/main.26ca0007.js",
+    "static/media/tumblr_inline_n258pmUe5i1qhwjx8.png": "/static/media/tumblr_inline_n258pmUe5i1qhwjx8.55ed409c18c6b19a2b8b.png",
+    "index.html": "/index.html",
+    "main.ecf05e18.css.map": "/static/css/main.ecf05e18.css.map",
+    "main.26ca0007.js.map": "/static/js/main.26ca0007.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecf05e18.css",
+    "static/js/main.26ca0007.js"
+  ]
+}
